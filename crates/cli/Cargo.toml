@@ -1,6 +1,6 @@
 [package]
 name = "jetted"
-version = "0.2.1"
+version = "0.3.0"
 authors = [
     "Isaac Harris-Holt <isaac@documatic.com>",
     "Ulysse Carion <ulysse@segment.com>",
